@@ -18,3 +18,7 @@ usi tarh jaise hum log GitHub pe code ko dekh or bhej sakte hai usi taarh docker
 open docker as par compatity setting the docker theme
 best analogy to remember the jaise tumare koiye karpad(foldable) hai uske chage tumu tent me convert kar diye usi taarh hum log image ko container me change kar dete hai
 open docker hub 
+run in terminal docker run hello-world har bar run karvane ke baad naya name milega
+bas tumhe dikhne ke liye itna kiya hoon
+ab hamlog apne vs code me jayege
+phir  docker build -t mlops-dockers-demo .
