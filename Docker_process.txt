@@ -1,0 +1,20 @@
+make app.py
+paste code from vikas sir code in app.py
+enter in terminal python app.py
+git add,git commit(app is ready),git push origin main
+add requriment.txt file(some dependency download or write)
+create dockerfile (spelling should be correct )
+paste code in dockerfile
+one word is slim iska kam hai same feature apko provide karta chote size me.
+git add , git commit(dockerfile is ready),git push origin main
+aur yeh dockerfile run karke image ban jayega 
+run this command : docker build -t mlops-dockers-demo .  and may be come error if run first time
+open google write dockerhub if you are go first time signup and login
+again go to goggle type dockerdestop download  according to operating you download file
+docker file open karte samay ho sakta hai apka system lag kare
+some time rewuried to opening please wait
+jaise hamlog code versioning me git karte waise he hum log docker par docker desktop use karte hai
+usi tarh jaise hum log GitHub pe code ko dekh or bhej sakte hai usi taarh dockerhub ko bhi humlog  dekh aur bhej sakte hai.
+open docker as par compatity setting the docker theme
+best analogy to remember the jaise tumare koiye karpad(foldable) hai uske chage tumu tent me convert kar diye usi taarh hum log image ko container me change kar dete hai
+open docker hub 
